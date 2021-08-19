@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+  height: 120%;
+  z-index: 1;
+  position: absolute;
+  margin: 0 auto;
+  float: none;
+}
+
+div {
+  width: 800px;
+  height: 800px;
+  background-color: white;
+  right: 20px;
+  z-index: 2;
+  position: absolute;
+  text-align: right;
+
+}
